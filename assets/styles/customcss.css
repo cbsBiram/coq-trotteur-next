@@ -1,0 +1,25 @@
+.rounded-5 {
+    border-radius: 0.75rem !important;
+}
+
+.rounded-8 {
+    border-radius: 50% !important;
+}
+
+.mt-2 {
+    margin-top: 1.25rem !important;
+}
+
+.mb-4 {
+    margin-bottom: 1.9rem !important;
+}
+
+.ml-2 {
+    margin-left: 1.25rem !important;
+}
+
+.b-right {
+    position: relative;
+    float: right;
+    z-index: 999;
+}
